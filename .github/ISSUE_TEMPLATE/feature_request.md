@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: To implement the customer notification when new products arrived in the shop.
-title: Customer notification issue
+about: Suggest an idea for this project
+title: ''
 labels: ''
 assignees: ''
 
